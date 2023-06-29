@@ -1,1 +1,1 @@
-# bilgi-yarismasi-kelime-bulmaca
+# Quiz and Word Puzzle with C#
